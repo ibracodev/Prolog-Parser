@@ -1,0 +1,10 @@
+OPENING FILE 1
+OPENING FILE 2
+OPENING FILE 3
+OPENING FILE 4
+error in line 5, missing right parenthesis
+OPENING FILE 5
+error in line 3, no atom
+error in line 3, expected a .
+error in line 3, expected a . or :-
+error in line 3, expected a ?-

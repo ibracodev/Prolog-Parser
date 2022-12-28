@@ -1,0 +1,20 @@
+OPENING FILE 1
+program is correct
+OPENING FILE 2
+program is correct
+OPENING FILE 3
+program is correct
+OPENING FILE 4
+error in line 5, missing right parenthesis
+OPENING FILE 5
+error in line 3, no atom
+error in line 3, no atom
+OPENING FILE 6
+not valid term, line 1
+not valid term, line 1
+not valid term, line 2
+not valid term, line 2
+not valid term, line 3
+error in line 3, missing right parenthesis
+error in line 3, expected a . or :-
+error in line 3, expected a ?-
